@@ -15,7 +15,7 @@ This project focuses on analyzing Tata Group stocks using various financial indi
 - **Automated Comparison Table** for Portfolio Insights
 
 ## 📂 Datasets Used
-- Historical Stock Data for **Tata Group Companies** (TCS, Tata Motors, Tata Steel, Titan, Tata Power, Tata Consumer)
+- real time Stock Data for **Tata Group Companies** (TCS, Tata Motors, Tata Steel, Titan, Tata Power, Tata Consumer)
 - **NIFTY 50** historical data for correlation analysis
 - Time range: *Specify the timeframe of data used*
 
@@ -49,7 +49,7 @@ This project focuses on analyzing Tata Group stocks using various financial indi
   - 30 ≤ RSI ≤ 70 → **HOLD**
 
 ### 5️⃣ Portfolio Risk Management
-- **Monte Carlo Simulation** for stock price forecasting
+- **Bootstrap method** for stock price forecasting
 - **Portfolio Comparison Table** (Mean Returns, Volatility, RSI, NIFTY Correlation)
 
 ## 📊 Results & Insights
